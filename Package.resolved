@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "SwiftRouter",
+        "repositoryURL": "https://github.com/onewh/SwiftRouter.git",
+        "state": {
+          "branch": null,
+          "revision": "b009e3af78086018a2043c197d6f5bee7f78621e",
+          "version": "0.0.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
